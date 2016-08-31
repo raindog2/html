@@ -1,6 +1,17 @@
 # html
 
-the html and css files that run my <a href="http://faculty.washington.edu/mpurcell/">professional homepage</a>.
+The html and css files that run my [professional home page](http://faculty.washington.edu/mpurcell/). 
 
-the html and css files that run my [professional home page](http://faculty.washington.edu/mpurcell/). 
+## Here is some more markdown
+
+`git add filename.txt`
+
+So far it seems *really* useful.
+* it is text based 
+* and I can take notes in vim
+* is there a converter?
+
+### This pic is fascinating
+![papertape](https://parasam.files.wordpress.com/2016/08/papertape21.jpg)
+
 
