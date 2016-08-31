@@ -4,7 +4,7 @@ The html and css files that run my [professional home page](http://faculty.washi
 
 ## Here is some more markdown
 
-You can read the [license](../LICENSE) for this repo.  
+You can read the [license](../master/LICENSE) for this repo.  
 
 So if you want to insert some code you do this:  
 In a terminal type: `git add filename.txt`
